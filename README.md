@@ -39,10 +39,9 @@ To get a local copy up and running follow these simple example steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 * python 3.9
-* pip
-  ```py
-  pip install disnake
-  ```
+ ```py
+ pip install disnake
+ ```
   
 
 ### Installation
@@ -50,9 +49,9 @@ This is an example of how to list things you need to use the software and how to
 1. Create a discord bot [here](https://discord.com/developers/applications)
 2. Paste your bot token in the config file and set the rest of your ids as so.
 3. Run the bot
-   ```py
-   python3 fivem.py
-   ```
+  ```py
+  python3 fivem.py
+  ```
 
 
 
